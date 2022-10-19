@@ -1,0 +1,25 @@
+ 
+- Basics of javascript
+- Advanced Javascript
+- Scopes in JS
+- Closures in JS
+- Asynchronous Javascript with Callbacks and Promises
+- Hoisting and Coercion
+- Node JS
+- Express JS
+- How internet works ?
+- REST
+- gRPC
+- API development
+- CRUD API
+- HTTP / HTTPS
+- Web sockets
+- Deployment on AWS and Heroku
+- Containers, Docker and Intro to kubernetes
+- MongoDB
+- MySQL
+- ORM and ODM
+- Airline ticket booking system project
+- Blog Project
+- Chat Application Project
+- Twitter application Project
